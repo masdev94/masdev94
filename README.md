@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Electronic E-commerce Project In Next.js**
 - 🌱 I’m currently learning **Next.js** and getting better every day.
-- 📫 You can reach me via email: aleksandarkuzmanovic02@gmail.com
+- 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
