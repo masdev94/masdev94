@@ -3,7 +3,7 @@
 <h3 align="center">I am a Specialist in Front-End Development and a Computer Science student from Serbia.</h3>
 
 - 🔭 I’m currently working on **Electronic E-commerce Project In Next.js**
-- 🌱 I’m currently learning **Next.js** and getting better every day.
+- 🌱 I’m currently learning **advanced React.js** and getting better every day.
 - 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
