@@ -1,5 +1,6 @@
-![bg linkedin](https://github.com/Kuzma02/Kuzma02/assets/138793624/84c1789f-79be-4fba-a4fa-bafb62a6eabb)
-<h1 align="center">Hi 👋, I'm Aleksandar Kuzmanovic</h1>
+  ![Frame 1](https://github.com/Kuzma02/Kuzma02/assets/138793624/e7a8527d-c12f-400f-97b5-f71c86827e33)
+<h1 align="center">Hi 👋,
+ I'm Aleksandar Kuzmanovic</h1>
 <h3 align="center">I am a Specialist in Front-End Development and a Computer Science student from Serbia.</h3>
 
 - 🔭 I’m currently working on **Electronic E-commerce Project In Next.js**
