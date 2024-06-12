@@ -3,7 +3,7 @@
  I'm Aleksandar Kuzmanovic</h1>
 <h3 align="center">I am a Specialist in Front-End Development and a Computer Science student from Serbia.</h3>
 
-- 🔭 I’m currently working on **Electronic E-commerce Project In Next.js**
+- 🔭 I’m currently working on **React performance optimization**
 - 🌱 I’m currently learning **advanced parts of React.js** and getting better every day.
 - 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
