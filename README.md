@@ -3,7 +3,7 @@
  I'm Aleksandar Kuzmanovic</h1>
 <h3 align="center">I'm a Front-End Developer and a Computer Science student from Serbia.</h3>
 
-- 🔭 I’m currently working on **eCommerce Admin Dashboard** in React.js
+- 🔭 I’m currently working on **eCommerce Fashion Shop** in React.js
 - 🌱 I’m currently learning **advanced parts of React.js** and getting better every day.
 - 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
