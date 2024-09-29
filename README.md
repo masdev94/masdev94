@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Front-End Developer and a Computer Science student from Serbia.</h3>
 
 - 🔭 I’m currently working on **Node.js Projects**
-- 🌱 I’m currently learning **intermediate level of Node.js** and getting better every day.
+- 🌱 I’m currently learning **an intermediate level of Node.js** and getting better every day.
 - 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
