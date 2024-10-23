@@ -1,4 +1,5 @@
-![my skills](https://github.com/user-attachments/assets/8eccd271-e569-43c0-88ff-7df6d3463a3d)
+![skills october 2024](https://github.com/user-attachments/assets/90fb2744-fdd8-475b-9245-5fb79bd9b3ac)
+
 <h1 align="center">Hi 👋,
  I'm Aleksandar Kuzmanovic</h1>
 <h3 align="center">I'm a Front-End Developer and a Computer Science student from Serbia.</h3>
