@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Full-Stack Developer and a Computer Science student from Serbia.</h3>
 
 - 🔭 I’m currently working on **Advanced MERN Chat Project**
-- 🌱 I’m currently learning **an advanced level of Node.js and solving Leet code problems daily**.
+- 🌱 I’m currently learning **an advanced level of Node.js and solving LeetCode problems daily**.
 - 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
