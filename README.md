@@ -1,6 +1,7 @@
-![skills october 2024](https://github.com/user-attachments/assets/90fb2744-fdd8-475b-9245-5fb79bd9b3ac)
+![new skillls](https://github.com/user-attachments/assets/035fbd8c-270e-461e-a34e-a9303fe8fba9)
 
 <h1 align="center">Hi 👋,
+
  I'm Aleksandar Kuzmanovic</h1>
 <h3 align="center">I'm a Full-Stack Developer and a Computer Science student from Serbia.</h3>
 
@@ -10,7 +11,7 @@
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aleksandar-kuzmanovic-kuzma" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg]" alt="aleksandar-kuzmanovic-090939241" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandar-kuzmanovic-kuzma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-kuzmanovic-090939241" height="30" width="40" /></a>
 </p>
 
 <!---
