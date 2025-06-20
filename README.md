@@ -6,7 +6,6 @@
 <h3 align="center">I am a Full-Stack Developer and Computer Science specialist based in Serbia.</h3>
 
 - 🔭 I’m actively looking for a new opportunity **Advanced MERN Chat Project**
-- 🌱 I’m currently deepening **my expertise in advanced Node.js architecture and enhancing my algorithmic thinking by solving complex LeetCode problems daily.**.
 - 📫 You can reach me via LinkedIn or email: highlowwww444@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
