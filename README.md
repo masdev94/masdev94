@@ -2,16 +2,16 @@
 
 <h1 align="center">Hi 👋,
 
- I'm Aleksandar Kuzmanovic</h1>
-<h3 align="center">I'm a Full-Stack Developer and a Computer Science student from Serbia.</h3>
+ I'm Dusan Hajlo</h1>
+<h3 align="center">I am a Full-Stack Developer and Computer Science specialist based in Serbia.</h3>
 
-- 🔭 I’m currently working on **Advanced MERN Chat Project**
-- 🌱 I’m currently learning **an advanced level of Node.js and solving LeetCode problems daily**.
-- 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
+- 🔭 I’m actively looking for a new opportunity **Advanced MERN Chat Project**
+- 🌱 I’m currently deepening **my expertise in advanced Node.js architecture and enhancing my algorithmic thinking by solving complex LeetCode problems daily.**.
+- 📫 You can reach me via LinkedIn or email: highlowwww444@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aleksandar-kuzmanovic-kuzma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-kuzmanovic-090939241" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dusan-hajlo-aa3438359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dusan" height="30" width="40" /></a>
 </p>
 
 <!---
